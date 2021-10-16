@@ -25,3 +25,7 @@ The class `StudentController.java` contains all endpoint.
 
 ## Compilation Command
 - `mvn clean install` - Plain maven clean and install
+
+## Medium Article 
+-  Following my article and use this project for Sonar and Code Coverage
+https://medium.com/@reachansari/setting-up-sonarqube-for-java-projects-locally-6111bc56b6fa
